@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>sentingyou&#39;s-blog</title>
-  <icon>http://example.com/icon.png</icon>
+  <title>Yousenting</title>
+  <icon>https://sentingyou.github.io/icon.png</icon>
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://sentingyou.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://sentingyou.github.io/"/>
   <updated>2025-10-25T10:03:04.239Z</updated>
-  <id>http://example.com/</id>
+  <id>https://sentingyou.github.io/</id>
   
   <author>
     <name>SentingYou</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title></title>
-    <link href="http://example.com/2025/10/25/natural-language-process/"/>
-    <id>http://example.com/2025/10/25/natural-language-process/</id>
+    <link href="https://sentingyou.github.io/2025/10/25/natural-language-process/"/>
+    <id>https://sentingyou.github.io/2025/10/25/natural-language-process/</id>
     <published>2025-10-25T10:00:06.481Z</published>
     <updated>2025-10-25T10:03:04.239Z</updated>
     
@@ -44,8 +44,8 @@ tags: diary&lt;/p&gt;
   
   <entry>
     <title></title>
-    <link href="http://example.com/2025/10/25/SO/"/>
-    <id>http://example.com/2025/10/25/SO/</id>
+    <link href="https://sentingyou.github.io/2025/10/25/SO/"/>
+    <id>https://sentingyou.github.io/2025/10/25/SO/</id>
     <published>2025-10-25T10:00:06.439Z</published>
     <updated>2025-10-25T10:02:50.411Z</updated>
     
@@ -70,8 +70,8 @@ tags: diary&lt;/p&gt;
   
   <entry>
     <title></title>
-    <link href="http://example.com/2025/10/25/PTE/"/>
-    <id>http://example.com/2025/10/25/PTE/</id>
+    <link href="https://sentingyou.github.io/2025/10/25/PTE/"/>
+    <id>https://sentingyou.github.io/2025/10/25/PTE/</id>
     <published>2025-10-25T09:57:18.649Z</published>
     <updated>2025-10-25T10:02:36.688Z</updated>
     
@@ -96,8 +96,8 @@ tags: diary&lt;/p&gt;
   
   <entry>
     <title>About how to creating a blog</title>
-    <link href="http://example.com/2025/10/12/About-how-to-creating-a-blog/"/>
-    <id>http://example.com/2025/10/12/About-how-to-creating-a-blog/</id>
+    <link href="https://sentingyou.github.io/2025/10/12/About-how-to-creating-a-blog/"/>
+    <id>https://sentingyou.github.io/2025/10/12/About-how-to-creating-a-blog/</id>
     <published>2025-10-12T11:20:58.000Z</published>
     <updated>2025-10-12T11:23:27.404Z</updated>
     
@@ -114,14 +114,14 @@ tags: diary&lt;/p&gt;
     
     
     
-    <category term="diary" scheme="http://example.com/tags/diary/"/>
+    <category term="diary" scheme="https://sentingyou.github.io/tags/diary/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2025/10/12/hello-world/"/>
-    <id>http://example.com/2025/10/12/hello-world/</id>
+    <link href="https://sentingyou.github.io/2025/10/12/hello-world/"/>
+    <id>https://sentingyou.github.io/2025/10/12/hello-world/</id>
     <published>2025-10-12T09:49:32.000Z</published>
     <updated>2025-10-12T10:59:58.824Z</updated>
     
